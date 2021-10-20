@@ -1,0 +1,48 @@
+html, body {
+  background-image: url("giphy.gif"), url("paper.gif");
+  background-color: #cccccc;
+
+
+  margin: 0;
+  padding: 0;
+}
+
+
+img{
+position: absolute;
+}
+ 
+.gene{
+    left:73px;
+  top: 571px;
+} 
+
+.arch{
+    left:65px;
+  top: 497px;
+} 
+
+.steal{
+    left:88px;
+  top: 638px;
+} 
+
+.recc{
+    left:58px;
+  top: 366px;
+} 
+
+.fatal{
+    left:62px;
+  top: 53px;
+} 
+
+
+
+
+
+
+
+canvas {
+  display: block;
+}
